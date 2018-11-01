@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_connecting_final_app">Error intentando conectar con la aplicación final</string>
+    <string name="error_getting_token_request">El PIN no es válido. Por favor obtenga uno nuevo.</string>
+    <string name="error_sending_pin">Error intentando autenticar con Twitter. Trate de obtener un nuevo PIN</string>
+    <string name="error_saving_access_token">Error guardando datos del dispositivo</string>
+    <string name="error_loading_access_token">Error leyendo datos del dispositivo</string>
+    <string name="error_twitter_operation">La operación con Twitter no pudo ser completada</string>
+    <string name="error_no_voice_recon">Por favor instale Google Voice Search antes de usar esta funcionalidad</string>
+    <string name="error_no_network">Es necesaria conexión a Internet para esta aplicación. Por favor habilite la conexión e inténtelo de nuevo.</string>
+    <string name="error_saving_config">Error guardando el fichero de configuración</string>
+    
+    <!-- Info messages -->
+    <string name="message_auth_ok">Autorización ok</string>
+    <string name="message_operation_ok">Operación completada con éxito</string>
+    <string name="status_updated_ok">Tweet enviado correctamente</string>
+    <string name="please_introduce_text">Por favor introduzca algún contenido primero</string>
+    <string name="wait_connecting_twitter">Conectando con Twitter. Por favor espere....</string>
+    
+    <!-- Labels on the app-->
+    <string name="update_status_title">Crear nuevo Tweet</string>
+    <string name="double_tap_to_start">Realice un doble punteo sobre la pantalla para introducir contenido</string>
+    <string name="please_talk_now">Por favor hable ahora</string>
+</resources>

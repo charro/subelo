@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Subelo!</string>
+    
+    <!-- Strings for first login View -->
+    <string name="firstLoginText">Bienvenido a Súbelo!. Parece que es la primera vez que accedes a la aplicación</string>
+    <string name="clickLoginButtonText">
+        Antes de usar la aplicación, debes dar permiso a Súbelo para acceder a tu cuenta. Haz click en el siguiente botón para realizar la solicitud a Twitter
+    </string>
+    <string name="afterFirstLogin">
+    Después, vuelve a esta pantalla e introduce el número PIN provisto por Twitter en el paso anterior
+    </string>
+    <string name="dontWorry">No te preocupes, sólo tendrás que hacer esto la primera vez que accedas a la aplicación ;)</string>
+    <string name="loginButton">Login en Twitter</string>
+    <string name="pinCodeFromTwitter">PIN code de Twitter</string>
+    
+    <!-- Main menu -->
+    <string name="mainMenu">Menu Principal</string> 
+    
+    <!-- List my Tweets -->
+    <string name="listTweetsTitle">Lista de Tweets</string>
+    <string name="no_tweets_found">NO SE ENCONTRARON TWEETS</string>
+    
+    <!-- Options Menu -->
+    <string name="disableTextToSpeech">Desactivar Text2Speech</string>
+    <string name="enableTextToSpeech">Activar Text2Speech</string>
+    
+</resources>

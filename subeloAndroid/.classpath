@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="/home/charro/.m2/repository/org/twitter4j/twitter4j-core/2.2.4/twitter4j-core-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/home/charro/.m2/repository/subelo/subelo-ws-client/0.0.1-SNAPSHOT/subelo-ws-client-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/charro/.m2/repository/com/rosaloves/bitlyj/2.0.0/bitlyj-2.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/59/trunk/subeloAndroid/res/layout
+END
+list_tweets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/59/trunk/subeloAndroid/res/layout/list_tweets.xml
+END
+main_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/47/trunk/subeloAndroid/res/layout/main_menu.xml
+END
+update_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/54/trunk/subeloAndroid/res/layout/update_layout.xml
+END
+new_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/subeloAndroid/res/layout/new_login.xml
+END
+test_twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/subeloAndroid/res/layout/test_twitter.xml
+END

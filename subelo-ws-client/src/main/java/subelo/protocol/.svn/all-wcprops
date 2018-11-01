@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53/trunk/subelo-ws-client/src/main/java/subelo/protocol
+END
+RequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/53/trunk/subelo-ws-client/src/main/java/subelo/protocol/RequestMessage.java
+END
+MapAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/53/trunk/subelo-ws-client/src/main/java/subelo/protocol/MapAdapter.java
+END
+AvailableServiceProviders.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/53/trunk/subelo-ws-client/src/main/java/subelo/protocol/AvailableServiceProviders.java
+END
+ResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/53/trunk/subelo-ws-client/src/main/java/subelo/protocol/ResponseMessage.java
+END
+AvailableServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/53/trunk/subelo-ws-client/src/main/java/subelo/protocol/AvailableServices.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/53/trunk/subelo-ws-client/src/main/java/subelo/protocol/Message.java
+END
+ResponseCodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/53/trunk/subelo-ws-client/src/main/java/subelo/protocol/ResponseCodes.java
+END

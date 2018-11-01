@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/62/trunk/server
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/19/trunk/server/pom.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/34/trunk/server/.classpath
+END
+EUPL v.1.1 - Licence.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/52/trunk/server/EUPL%20v.1.1%20-%20Licence.pdf
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/trunk/server/.project
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/69/trunk/subeloAndroid
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/54/trunk/subeloAndroid/pom.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/subeloAndroid/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/54/trunk/subeloAndroid/.classpath
+END
+EUPL v.1.1 - Licence.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54/trunk/subeloAndroid/EUPL%20v.1.1%20-%20Licence.pdf
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/subeloAndroid/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/subeloAndroid/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/42/trunk/subeloAndroid/AndroidManifest.xml
+END

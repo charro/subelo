@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/baselayout" 
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical"
+	android:background="@color/background">
+	
+	<LinearLayout android:id="@+id/headerLayout" android:layout_height="wrap_content"
+				  android:layout_width="wrap_content" android:orientation="horizontal">
+				  
+		<ImageView android:src="@drawable/subelologowhite" android:id="@+id/banner" 
+	    		   android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView>
+		<!-- Title -->
+		<TextView android:id="@+id/title" android:text="@string/update_status_title" 
+		android:textStyle="bold" android:textColor="@color/white"
+		android:textSize="18dp"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:layout_margin="5dp">
+		</TextView>
+	</LinearLayout>
+	
+	<!-- Status Text Box -->
+	<EditText android:id="@+id/statusTextView" android:layout_height="wrap_content" 
+		android:hint="@string/double_tap_to_start"
+		android:textSize="20dp" android:maxHeight="300dp" android:maxLength="140"
+		android:layout_width="fill_parent" android:layout_margin="8dp"
+		android:inputType="textMultiLine" android:lines="3"
+		android:autoLink="all" android:linksClickable="false" >
+	</EditText>
+	
+	<!-- Touching area -->
+	<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+		xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/touchArea">
+		<ImageView android:id="@+id/leftImageView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/whitearrowleft"
+			android:layout_alignParentLeft="true"
+			android:layout_centerVertical="true">
+		</ImageView>
+		<ImageView android:id="@+id/rightImageView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/http"
+			android:layout_alignParentRight="true"
+			android:layout_centerVertical="true">
+		</ImageView>
+		<ImageView android:id="@+id/discardImageView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_alignParentBottom="true"
+			android:layout_centerHorizontal="true"
+			android:src="@drawable/trash" android:layout_marginBottom="2dip">
+		</ImageView>
+		<ImageView android:id="@+id/subeloImageView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_alignParentTop="true" android:layout_centerHorizontal="true" 
+			android:src="@drawable/twitter" android:layout_marginTop="1dip">
+		</ImageView>
+		<ImageView android:id="@+id/handImageView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content" 
+			android:src="@drawable/whitehand2" 
+			android:layout_centerInParent="true">
+		</ImageView>
+	</RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/55/trunk/server/WebContent/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/38/trunk/server/WebContent/WEB-INF/web.xml
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/55/trunk/server/WebContent/WEB-INF/appengine-web.xml
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/server/WebContent/WEB-INF/logging.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/server/WebContent/WEB-INF/applicationContext.xml
+END

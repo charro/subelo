@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52/trunk/server/src/main/java/subelo/server/xml
+END
+XMLEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/52/trunk/server/src/main/java/subelo/server/xml/XMLEncoder.java
+END
+XMLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/52/trunk/server/src/main/java/subelo/server/xml/XMLException.java
+END

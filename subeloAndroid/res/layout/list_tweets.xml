@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/baselayout" 
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical"
+	android:background="@color/background">
+	
+	<LinearLayout android:id="@+id/headerLayout" android:layout_height="wrap_content"
+				  android:layout_width="wrap_content" android:orientation="horizontal" android:baselineAligned="true">
+				  
+		<ImageView android:src="@drawable/subelologowhite" android:id="@+id/banner" 
+	    		   android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView>
+		<!-- Title -->
+		<TextView android:id="@+id/title" android:textStyle="bold" android:textColor="@color/white"
+		android:textSize="18dp"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+		android:text="@string/listTweetsTitle" android:layout_marginLeft="20dp" android:layout_marginTop="20dp" android:layout_gravity="top">
+		</TextView>
+	</LinearLayout>
+	
+	<!-- Touching area -->
+	<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+		xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/touchArea">
+		<ImageView android:id="@+id/leftImageView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/whitearrowleft" android:visibility="invisible"
+			android:layout_alignParentLeft="true"
+			android:layout_centerVertical="true">
+		</ImageView>
+		<ImageView android:id="@+id/rightImageView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/whitearrowright" android:visibility="invisible"
+			android:layout_alignParentRight="true"
+			android:layout_centerVertical="true">
+		</ImageView>
+		<ImageView android:id="@+id/subeloImageView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_alignParentTop="true" android:layout_centerHorizontal="true" 
+			android:src="@drawable/whitearrowup" android:layout_marginTop="5px">
+		</ImageView>
+		<TextView android:id="@+id/tweetTextView"
+			android:textColor="@color/white" android:textSize="18dp"
+			android:text="@string/no_tweets_found"
+			android:autoLink="web" android:linksClickable="true"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:maxWidth="200dp" android:maxLength="190"
+			android:layout_centerVertical="true" android:layout_centerHorizontal="true"
+			android:layout_marginLeft="20dp" android:layout_marginRight="20dp">
+		</TextView>
+
+	</RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_connecting_final_app">Error trying to connect the final application</string>
+    <string name="error_getting_token_request">The pin is no longer valid, please request another one</string>
+    <string name="error_sending_pin">Error trying to get authorization from Twitter. Try to get a new PIN.</string>
+    <string name="error_saving_access_token">Error storing your access data to the device</string>
+    <string name="error_loading_access_token">Error loading your access data from the device</string>
+    <string name="error_twitter_operation">The operation with Twitter could not be completed</string>
+    <string name="error_no_voice_recon">Please install Google Voice Search in your device before to use this functionality</string>
+    <string name="error_no_network">You need access to internet to use this application. Please connect to internet and try again</string>
+    <string name="error_saving_config">Error trying to save the config file to the device</string>
+    
+    <!-- Info messages -->
+    <string name="message_auth_ok">The authorization was granted</string>
+    <string name="message_operation_ok">The operation was completed successfully</string>
+    <string name="status_updated_ok">Your status was updated successfully</string>
+    <string name="please_introduce_text">Please introduce some text before</string>
+    <string name="wait_connecting_twitter">Connecting with Twitter. Please wait....</string>
+    
+    <!-- Labels on the app-->
+    <string name="update_status_title">Create New Tweet</string>
+    <string name="double_tap_to_start">Make a double tap on the area below to introduce content</string>
+    <string name="please_talk_now">Please talk now</string>
+</resources>

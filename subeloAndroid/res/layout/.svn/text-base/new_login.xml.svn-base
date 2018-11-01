@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:id="@+id/parentLayoutWithScroll"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android" android:background="@color/background">
+
+<ScrollView android:id="@+id/AbsoluteScrollView"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+
+<LinearLayout android:id="@+id/linearLayoutContainer" android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" >
+
+	<LinearLayout android:id="@+id/headerLayout" android:layout_width="fill_parent" 
+				  android:layout_height="fill_parent" android:orientation="horizontal">
+	    <ImageView android:src="@drawable/subelologowhite" android:id="@+id/banner" 
+	    		   android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView>
+	    <TextView android:id="@+id/textView1" android:layout_width="wrap_content" 
+	    		  android:textColor="@color/white" android:textSize="16dp" android:textStyle="bold"
+	    		  android:layout_height="wrap_content" android:text="@string/firstLoginText"
+	    		  android:layout_marginTop="8dp" android:layout_marginLeft="8dp"></TextView>
+	</LinearLayout>
+	
+	<LinearLayout android:id="@+id/contentLayout" android:layout_width="fill_parent" 
+				  android:layout_height="fill_parent" android:orientation="vertical"
+				  android:layout_marginTop="10dp">
+		<TextView android:id="@+id/clickLogintextView" android:text="@string/clickLoginButtonText"  
+	    		  android:textColor="@color/white"  android:layout_height="wrap_content"
+	    		  android:layout_width="fill_parent" android:layout_margin="4dp"></TextView>
+	    <Button android:id="@+id/loginButton" android:text="@string/loginButton" android:textSize="18dp"
+	    			 android:layout_width="fill_parent" android:layout_height="wrap_content"
+	    			 android:layout_margin="4dp"></Button>
+	    <TextView android:id="@+id/afterFirstLogintextView" android:text="@string/afterFirstLogin"  
+	    		  android:textColor="@color/white" android:layout_height="wrap_content"
+	    		  android:layout_width="fill_parent" android:layout_margin="4dp"></TextView>
+	    <EditText android:layout_height="wrap_content" android:hint="@string/pinCodeFromTwitter" 
+	    		  android:layout_width="fill_parent" android:id="@+id/pinTextBox"
+	    		  android:layout_margin="4dp" android:selectAllOnFocus="true"></EditText>
+	   	<TextView android:id="@+id/dontWorryTextView"  android:text="@string/dontWorry"  
+	    		  android:textColor="@color/white" android:layout_height="wrap_content"
+	    		  android:layout_width="fill_parent" android:layout_margin="4dp"></TextView>
+	    <Button android:id="@+id/sendPinButton"  android:textSize="18dp"
+	    		android:text="OK" android:layout_height="wrap_content" 
+	    		android:layout_width="fill_parent"
+	    		android:layout_margin="4dp"></Button>
+	</LinearLayout>
+</LinearLayout>
+</ScrollView>
+</LinearLayout>

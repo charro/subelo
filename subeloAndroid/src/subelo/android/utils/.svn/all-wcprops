@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/63/trunk/subeloAndroid/src/subelo/android/utils
+END
+SubeloClientHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/54/trunk/subeloAndroid/src/subelo/android/utils/SubeloClientHelper.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/63/trunk/subeloAndroid/src/subelo/android/utils/Constants.java
+END
+DialogHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/54/trunk/subeloAndroid/src/subelo/android/utils/DialogHelper.java
+END
+TwitterHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/54/trunk/subeloAndroid/src/subelo/android/utils/TwitterHelper.java
+END
+ConfigFileHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/54/trunk/subeloAndroid/src/subelo/android/utils/ConfigFileHelper.java
+END
